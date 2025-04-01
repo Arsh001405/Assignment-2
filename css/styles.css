@@ -166,3 +166,10 @@ section:nth-of-type(3) h2 {
 section:nth-of-type(3) h3 {
     color: darkcyan;
 }
+footer {
+    text-align: right;
+    text-transform: uppercase;
+}
+footer em {
+    color: rgba(255, 132, 0, 0.954);
+}
