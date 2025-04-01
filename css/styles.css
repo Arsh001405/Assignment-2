@@ -137,3 +137,17 @@ ol {
     margin-left: 40px;
     margin-right: 50px;
 }
+li {
+    padding-bottom: 5px;
+}
+li > h3, li > p {
+    display: inline;
+}
+li h3 {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+}
+section:nth-of-type(1) h2 {
+    border-top: solid 20px rgb(37, 159, 37);
+    margin-top: 14px;
+}
